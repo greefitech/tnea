@@ -1,2 +1,1 @@
-# tnea
-Tamil Nadu Engineering Admission data is listed for college management use.
+# This is the source code for crawling all things
